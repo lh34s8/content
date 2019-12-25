@@ -7,7 +7,7 @@ from CommonServerUserPython import *
 import json
 import requests
 
-# Disable insecure warnings
+# Disable insecure warningsv
 requests.packages.urllib3.disable_warnings()
 
 ''' GLOBALS/PARAMS '''
